@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    max-width: 100%;
+}
+
+.wrapper{
+    background: url(../img/dribbble-design__1_.gif) no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
